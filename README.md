@@ -10,7 +10,7 @@ Should work on all devices with the link.
 
 ## Screenshot of Changed Code
 
-<img src="./assets/images/html-file.png" alt="Photo of Mockup">
+<img src="./assets/images/completed-site.png" alt="Photo of Mockup">
 
 ## Link to Delpoyed Page
 
