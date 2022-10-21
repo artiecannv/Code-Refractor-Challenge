@@ -8,7 +8,7 @@ I wanted to clean this code up. Refactored code into Semantic HTML and grouped s
 
 Should work on all devices with the link.
 
-## Screenshot of Changed Code
+## Screenshot of Deployed Page
 
 <img src="./assets/images/completed-site.png" alt="Photo of Mockup">
 
